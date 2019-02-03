@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">eas-e</string>
+    <string name="title_activity_outreach">Breathe</string>
+    <string name="backButton">Quit</string>
+    <string name="BreathInView">Breathe In</string>
+    <string name="BreathOutView">Breathe Out</string>
+    <string name="MenuPreferences">Menu Preferences</string>
+    <string name="smsTitle">Sending SMS Example"</string>
+    <string name="sendSMS">Send Sms</string>
+
+</resources>
