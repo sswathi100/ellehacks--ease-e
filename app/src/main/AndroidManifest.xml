@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.ssendhil.smstrial">
+    package="com.example.ssendhil.ease_e">
 
     <uses-permission android:name="android.permission.SEND_SMS" />
 
@@ -15,7 +15,7 @@
         android:configChanges="keyboardHidden|orientation"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".MainActivity"
+            android:name="com.example.ssendhil.ease_e.MainActivity"
             android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -24,12 +24,12 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".Outreach"
+            android:name="com.example.ssendhil.ease_e.Outreach"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_outreach"
             android:screenOrientation="portrait"
             android:theme="@style/FullscreenTheme" />
-        <activity android:name=".Settings"></activity>
+        <activity android:name="com.example.ssendhil.ease_e.Settings"></activity>
     </application>
 
 </manifest>

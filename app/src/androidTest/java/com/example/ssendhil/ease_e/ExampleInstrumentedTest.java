@@ -1,4 +1,4 @@
-package com.example.ssendhil.smstrial;
+package com.example.ssendhil.ease_e;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

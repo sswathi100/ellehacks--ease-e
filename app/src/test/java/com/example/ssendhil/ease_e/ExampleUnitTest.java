@@ -1,4 +1,4 @@
-package com.example.ssendhil.smstrial;
+package com.example.ssendhil.ease_e;
 
 import org.junit.Test;
 
